@@ -6,6 +6,7 @@
       <Unit>
         <Filename Value="testlib.lpr"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <CursorPos X="19" Y="11"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -13,10 +14,16 @@
       <Unit>
         <Filename Value="libunit1.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <CursorPos X="96" Y="19"/>
         <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="signalprocs.pas"/>
+        <UnitName Value="SignalProcs"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
