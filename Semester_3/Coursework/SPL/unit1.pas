@@ -111,6 +111,7 @@ begin
   fft2(TRealArray(x),xlen,1,2,PX^);
   fft2(TRealArray(x),xlen,0,2,PX^);
   //ResBox.Clear;    }
+  //вавава
   dt:=Now;
   if fftfunc<>nil then
     begin

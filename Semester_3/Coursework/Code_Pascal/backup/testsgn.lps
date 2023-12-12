@@ -21,18 +21,18 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit1"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="115"/>
-        <CursorPos X="47" Y="122"/>
+        <TopLine Value="3"/>
+        <CursorPos X="37" Y="141"/>
         <UsageCount Value="209"/>
         <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="signalprocs.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="SignalProcs"/>
-        <EditorIndex Value="1"/>
-        <TopLine Value="305"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="323"/>
         <CursorPos X="7" Y="309"/>
         <UsageCount Value="209"/>
         <Loaded Value="True"/>
@@ -50,6 +50,14 @@
         <TopLine Value="312"/>
         <CursorPos Y="329"/>
         <UsageCount Value="16"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\SPL\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
