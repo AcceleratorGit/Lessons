@@ -21,8 +21,7 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit1"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="3"/>
+        <TopLine Value="93"/>
         <CursorPos X="37" Y="141"/>
         <UsageCount Value="209"/>
         <Loaded Value="True"/>
@@ -32,8 +31,8 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="SignalProcs"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="323"/>
-        <CursorPos X="7" Y="309"/>
+        <TopLine Value="301"/>
+        <CursorPos X="31" Y="12"/>
         <UsageCount Value="209"/>
         <Loaded Value="True"/>
       </Unit>
@@ -42,14 +41,34 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="329"/>
         <CursorPos Y="355"/>
-        <UsageCount Value="16"/>
+        <UsageCount Value="12"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\..\..\usr\lib64\lazarus\lcl\include\winapi.inc"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="312"/>
         <CursorPos Y="329"/>
-        <UsageCount Value="16"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\SPL\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="90"/>
+        <CursorPos X="13" Y="116"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\SPL\unit1.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">

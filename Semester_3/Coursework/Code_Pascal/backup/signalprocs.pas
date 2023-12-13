@@ -345,7 +345,7 @@ begin
 
   Result:=fr;
 end;
-                                                                                              70
+
 initialization
   RC:=TfftResCollection.Create;
   // Xtemp:=GetMem(64*SizeOf(complex));

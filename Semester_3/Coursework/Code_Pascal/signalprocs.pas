@@ -51,7 +51,7 @@ type
                        var aThrCount: word);
     procedure Execute; override;
   end;
-
+                                                                    #include
 var
   RC: TfftResCollection;
   Xtemp: PComplexArray;
