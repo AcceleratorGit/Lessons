@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1429738194"/>
-  <Params Value=" -MObjFPC -Scgi -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-FuC:\Users\minus5\Documents\Станкин ИИТ\Software\SPL\&quot; &quot;-oC:\Users\minus5\Documents\Станкин ИИТ\Software\SPL\sgnproc.dll&quot; -Fr/usr/lib64/fpc/msg/errore.msg sgnproc.lpr"/>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449427374"/>
+  <Params Value=" -MObjFPC -Scgi -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-FuC:\Users\Vasil\OneDrive\Рабочий стол\Lessons\Semester_3\Coursework\SPL\&quot; &quot;-oC:\Users\Vasil\OneDrive\Рабочий стол\Lessons\Semester_3\Coursework\SPL\sgnproc.dll&quot; -Fr/usr/lib64/fpc/msg/errore.msg sgnproc.lpr"/>
 </CONFIG>
